@@ -22,9 +22,11 @@ The September 2026 local report describes 86,426 reported active seconds and 722
 
 ## Public project visuals
 
-[![AIOA GOLD24](https://sparkhat.eu/assets/images/projects/aioa-go24-test-pass.webp)](https://sparkhat.eu/aioa/)
+| AIOA spArkHAT | LSC Research | EagleEYE public showcase |
+| --- | --- | --- |
+| [![AIOA local Gold24](https://sparkhat.eu/assets/images/projects/aioa-go24-test-pass.webp)](https://sparkhat.eu/aioa/) | [![LSC exploratory research](https://sparkhat.eu/assets/images/projects/lsc-6-5-codex-of-light.jpg)](https://sparkhat.eu/lsc/) | [![EagleEYE safety-bounded showcase](https://sparkhat.eu/assets/images/projects/eagleeye-darc-closed-sovereign.webp)](https://sparkhat.eu/eagleeye/) |
 
-[LSC](https://sparkhat.eu/lsc/) · [EagleEYE](https://sparkhat.eu/eagleeye/) · [All projects](https://sparkhat.eu/)
+[All projects](https://sparkhat.eu/)
 
 ## Documentation, reviews & collaboration
 
