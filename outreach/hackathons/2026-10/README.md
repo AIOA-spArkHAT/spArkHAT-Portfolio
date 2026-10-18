@@ -1,47 +1,49 @@
-# AIOA spArkHAT — Existing-Project Hackathon Shortlist (17 October 2026)
+# Existing-project showcase opportunities for AIOA spArkHAT — verified 18 October 2026
 
-**Status:** Research and application preparation ONLY. This page is not a competition registration or submission.
+**Status: research only. No new hackathon registration/submission has been confirmed through this audit.**
 
-## P0 — Hillpost Hacktober 2026
-- Event: https://hillpost.dev/hacktober
-- Official free registration: https://luma.com/a3dgd7y4
-- Submission/showcase window: Oct 1–30, 2026. Online; finale in San Francisco, physical attendance rules need confirmation.
-- **Prior projects allowed:** organizer explicitly states projects begun before October are welcome, with **no freshness test**.
-- Our entry: AIOA spArkHAT, a local-first, human-controlled experimental agent runtime.
-- Public source: https://github.com/luciferprosun/AIOA-spArkHAT
+This shortlist is intentionally strict: reuse **existing AIOA** with its current code, demo, README and images. No new feature development, fresh October implementation, student-only entry, or paid infrastructure.
+
+## P0 — Hillpost Hacktober 2026 | Eligible existing project (outside Devpost)
+
+- Organizer: https://hillpost.dev/hacktober
+- Registration: https://luma.com/a3dgd7y4
+- Event: 1–30 October 2026; online, with finale in San Francisco.
+- **Explicit existing-project rule:** projects started before October are welcome; no freshness test.
+- No new code required to present an existing open-source project. Registration and organizer confirmation may still be required.
+- Canonical source: https://github.com/luciferprosun/AIOA-spArkHAT
 - Demo: https://youtu.be/ABJijoNKmYM
-- Docs: https://sparkhat-research.gitbook.io/sparkhat-reserch-docs/aioa-sparkhat
+- Research docs: https://sparkhat-research.gitbook.io/sparkhat-reserch-docs/aioa-sparkhat
 - Visual: https://sparkhat.eu/assets/images/projects/aioa-go24-test-pass.webp
 
-**Potential submission text:** AIOA separates model advice from execution authority. It combines bounded tasks, evidence and provenance checks, human approval for protected effects, guarded services, durable receipts and independently reviewable local test results. This is an existing engineering project started before October, with continuing development and public source code.
+**Proposed description:** AIOA spArkHAT is a local-first agent runtime with a human authority gate, provenance and evidence checks, bounded model advice, guarded effects, durable receipts and independently reviewable offline test evidence. The existing code was developed before Hacktober and may be shared honestly as such.
 
-**Evidence limits:** GOLD24 refers to a historical local endurance report with 86,426 reported active seconds and 722 checkpoint files; not a certification of current main. Replay attacks were not tested. Raw evidence bundle is not public. Gold72 is planned, not completed. Mobile, MCP and remote-control capabilities must only be described according to their actual verified state. Review: https://github.com/luciferprosun/AIOA-spArkHAT/blob/main/docs/launch/GOLD24_LOCAL_EVIDENCE_REVIEW_20261013.md
+**Evidence limits:** historical local GOLD24 reported 86,426 active seconds and 722 linked checkpoint records; no replay-attack attempts, tested candidate not public main, raw bundle not released. Gold72 planned, not completed. This is not independent production certification.
 
-**Current block:** Luma integration could identify event but not register participant; the organizer's official registration must be completed on the real account, with any event-specific terms agreed to by the owner. No payment authorized.
+**Status:** valid target, NOT registered/submitted. Verify organizer submission process and finale attendance requirements. Do not claim prize eligibility until the official registration is accepted.
 
-## P1 — Maximally Hacktober 2026
-- Event/rules: https://maximallyhacktober.devpost.com/rules
-- Deadline: Oct 31, 2026, 23:59 IST.
-- Eligibility: Requires project worked on **primarily during October** and meaningful October progress; reviving an older idea may qualify. AIOA pre-dates October, so a full unchanged AIOA submission is not automatically eligible.
-- Evidence of October work on canonical AIOA main:
-  - Oct 11: d9031d02d6 — Mobile Bridge P0 integration.
-  - Oct 13: c01efad814 — Core and contained worker integration.
-  - Oct 14: 90fa4e31d5 — scoped GOLD24 engineering publication.
-- Existing Devpost AIOA project: https://devpost.com/software/aioa-sparkhat — reuse when permitted, do NOT create a duplicate.
-- **Current block:** Official Devpost app returned repeated internal errors. Required event-specific registration and terms cannot be bypassed. No application submitted.
+## Devpost current candidates — NOT suitable for unchanged AIOA
 
-## P2 — IEEE Hack For Humanity 2026
-- Event: https://ieee-ai-hack-for-humanity.devpost.com/rules
-- Deadline: Oct 21, 2026.
-- Existing libraries/components may be disclosed; no confirmation that an unchanged AIOA project is eligible.
-- Finalist stage in-person Oct 24, entrants responsible for travel and accommodation. Avoid commitment without budget and organizer clarification.
-- Not registered or submitted.
+| Event | Live status / rule | Decision |
+| --- | --- | --- |
+| [GitLab Life After Code 2026](https://gitlab-transcend.devpost.com/) | Open until Oct 27, 2026; BYO project path demands **new GitLab Duo post-code automation and deployment after Oct 5** | Exclude from zero-code approach |
+| [IEEE Hack For Humanity 2026](https://ieee-ai-hack-for-humanity.devpost.com/) | Oct 21 deadline, but **US-only students**, teams required; physical finalist round | Ineligible under current Germany-based applicant |
+| [Maximally Hacktober](https://maximallyhacktober.devpost.com/) | **2025 edition**, closed; earlier notes incorrectly labeled it as 2026 | Closed; do not submit |
 
-## Screening exclusions
-Do not enter events requiring all code to be written during the hackathon, such as LexHack 2026, Proof of Possible 2026, HackGB 2026 or All Things Agentic Hackathon, with unchanged AIOA. Do not claim a GitHub organization is a legally incorporated company.
+Other ordinary Devpost hackathons researched commonly require new code or substantial new functionality and must NOT be treated as existing-project-friendly merely because open-source libraries are allowed.
 
-## Submission policy
-- Do not bypass login, MFA, captcha, terms, eligibility declarations or human approval.
-- Never send mass repeated or duplicate submissions.
-- Do not touch current AIOA spArkHAT/Nebius coding branches or the Nebius Devpost draft.
-- Log confirmations only after receiving organizer acknowledgment or stable submission URLs.
+## Historical format example, not eligible now
+
+[DevSoc Starlight 2026](https://devsoc-starlight-2026.devpost.com/) explicitly welcomed projects developed for months, but closed July 2026, required students and an in-person Australian exhibition. Useful as a template for future **project showcase** competitions, not a current application.
+
+## Sources and constraints
+
+- Public canonical repository: https://github.com/luciferprosun/AIOA-spArkHAT
+- Portfolio organization: https://github.com/AIOA-spArkHAT/spArkHAT-Portfolio
+- AIOA already had Devpost history: https://devpost.com/tonystarrkarc
+- The Devpost connector returned internal failures on identity, portfolio, current-events and search operations on Oct 18. This prevents claiming authenticated enrollment/submission.
+- Event registration may require actual rules and eligibility declarations that must be explicitly accepted by the owner.
+- A GitHub organization is NOT a legally incorporated company.
+- No duplicate Devpost projects, fabricated improvements, artificial votes, terms bypasses, unapproved purchases or changes to Codex's AIOA/Nebius branches.
+
+**Next action:** complete Hillpost registration if eligible and ask organizer how to share existing AIOA for judging. Continue searching for true project-showcase and open-source awards rather than fresh-build hackathons.
